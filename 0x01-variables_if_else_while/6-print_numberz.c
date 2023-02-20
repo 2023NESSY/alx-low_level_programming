@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - prints single digits below 10
+ * main - prints single digits in base 10
  * Return: Always 0 (success)
  */
-int mai(void)
+int main(void)
 {
 	int num;
 
